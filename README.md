@@ -1,2 +1,5 @@
 # Hello-world
-Just any repository 
+
+Hello Minions!
+
+I am a Czechladian living in the digital world just minding my own business becuase there isn't anything else to do.. 
